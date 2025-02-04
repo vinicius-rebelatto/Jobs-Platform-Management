@@ -1,6 +1,0 @@
-@Jobs_Platform_Management_HostAddress = http://localhost:5282
-
-GET {{Jobs_Platform_Management_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
